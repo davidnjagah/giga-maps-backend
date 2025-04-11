@@ -7,16 +7,6 @@
 <h1><a id="gigamaps" class="anchor" aria-hidden="true" href="#gigamaps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></path></svg></a>
 Giga Maps Backend </h1> 
 
-<div align="center" >
-
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/unicef/giga-maps-backend)
-![GitHub stars](https://img.shields.io/github/stars/unicef/giga-maps-backend)
-![Twitter Follow](https://img.shields.io/twitter/follow/backend)
-![License](https://img.shields.io/github/license/unicef/giga-maps-backend)
-
-
-</div>
 
 
 <p align="center">
